@@ -10,8 +10,25 @@ h1 {
     padding-left: 5%;
 }
 
+h2 {
+    font-family: 'Unbounded', cursive;
+    color: whitesmoke;
+}
+
+h3 {
+    font-family: 'Unbounded', cursive;
+    color: whitesmoke;
+    position: relative;
+}
+
 .container {
     text-align: center;
+}
+
+.inner-container {
+    position: relative;
+    bottom: 40%;
+    left: 50px;
 }
 
 #nav-links li {
@@ -19,5 +36,7 @@ h1 {
     position: relative;
     padding: 20px;
     color: whitesmoke;
-    
+    font-family: 'Unbounded', cursive;
+    padding-left: 0px;
 }
+
