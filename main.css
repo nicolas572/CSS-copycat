@@ -1,0 +1,23 @@
+body {
+    background-image: url('https://sxcontent9668.azureedge.us/cms-assets/assets/Desktop_Homepage_SDA_0_A_South_West_Hill_Horz_2971_b977ff85c8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: "Unbounded", cursive;
+    color: whitesmoke;
+    padding-left: 5%;
+}
+
+.container {
+    text-align: center;
+}
+
+#nav-links li {
+    display: inline-block;
+    position: relative;
+    padding: 20px;
+    color: whitesmoke;
+    
+}
